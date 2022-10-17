@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Johnocaleb/Huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Live Site URL](https://huddleend.netlify.app/)
 
 ### Built with
 
@@ -47,7 +47,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Johnocaleb](https://www.frontendmentor.io/profile/Johnocaleb)
+- Twitter - [@Johnocaleb](https://www.twitter.com/Johnocaleb)
 
